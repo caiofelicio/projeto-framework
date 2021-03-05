@@ -29,6 +29,6 @@ com esse comando, o gerenciador de pacotes do Node vai instalar todas as depend�
 
 * Uma vez instaladas, no terminal dentro da pasta do projeto, rode o comando <br><br>
 `npm run dev` <br><br>
-o programa iniciará um servidor na sua máquina local na porta 5500, certifique-se de que essa porta **não** esteja sendo usada por nenhuma outra aplicação.
+o programa iniciará um servidor na sua máquina local na porta 3333, certifique-se de que essa porta **não** esteja sendo usada por nenhuma outra aplicação.
 
-* Abra o navegador e digite `localhost:5500`
+* Abra o navegador e digite `localhost:3333`
